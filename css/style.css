@@ -1,0 +1,12 @@
+body {
+    font-family: 'Oxygen', sans-serif;
+}
+.container-fluid {
+    background-image: url("http://www.ewallpapers.eu/sites/default/files/1906413994.jpg");
+    height: 800px;
+}
+.container-fluid h1 {
+    color: black;
+    font-size: 100px;
+    padding-top: 300px;
+}
